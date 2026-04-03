@@ -49,6 +49,3 @@ Candidate profiles are validated using AI to detect and prevent **fraudulent sub
 
 ---
 
-## Project Info
-
-**Lovable Project URL**: https://lovable.dev/projects/019da328-a341-4e2b-8a30-c494bee4a04e
